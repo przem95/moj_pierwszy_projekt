@@ -1,1 +1,2 @@
 to jest pierwsza linijka tekstu 
+wprowadzam modyfikacje pliku
